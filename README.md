@@ -73,7 +73,7 @@ Analyzed global renewable vs non-renewable energy trends using Tableau & SQL, hi
 
 ## 📬 Let’s Connect  
 
-🔗 [LinkedIn](https://www.linkedin.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aartizikre/)  
 ✉️ zikreaarti1998@gmail.com  
 
 ✨ *“I don’t just work with data — I challenge it, decode it, and let it speak.”*  
