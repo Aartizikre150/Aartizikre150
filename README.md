@@ -54,33 +54,31 @@ Investis Digital | Vadodara, India
 
 ## 📂 Featured Projects  
 
-## 📂 Featured Projects  
-
 🔹 🌊 **[Water Life Cycle Dashboard](https://github.com/Aartizikre150/Water-Life-Cycle)**  
 Built an interactive Power BI dashboard using NASA & NOAA datasets to visualize the entire water cycle — enhancing climate and sustainability insights.  
 
-🔹 🏆 **[Rocket Mortgage Analytics Challenge](https://github.com/Aartizikre150/Rocket-Mortgage-Analytics-Challenge)**  
+🔹 🏆 **[Rocket Mortgage Analytics Challenge](https://github.com/Aartizikre150/Rocket-morgage)**  
 Finalist — designed dashboards and predictive insights to improve customer profiling and lending strategies.  
 
 🔹 😊 **[Workplace Happiness Pulse](https://github.com/Aartizikre150/Workplace-Happiness-Pulse)**  
 Survey-based EDA with Tableau to uncover employee satisfaction trends and actionable HR insights.  
 
-🔹 📦 **[Ecommerce Return Prediction](https://github.com/Aartizikre150/Ecommerce-Return-Prediction)**  
+🔹 📦 **[Ecommerce Return Prediction](https://github.com/Aartizikre150/Ecommerce_Return_Prediction)**  
 Developed ML models with Python & Tableau dashboards to predict product returns and optimize logistics.  
 
-🔹 🔋 **[Worldwide Energy Consumption Analysis](https://github.com/Aartizikre150/Worldwide-Energy-Consumption)**  
+🔹 🔋 **[Worldwide Energy Consumption – Global Comparison](https://github.com/Aartizikre150/Worldwide-Energy-Consumption-A-Global-Comparison)**  
 Analyzed global renewable vs non-renewable energy trends using Tableau & SQL, highlighting post-pandemic shifts.  
 
-🔹 🏥 **[Surgery Wait Times in Canada](https://github.com/Aartizikre150/Surgery-Wait-Times-Canada)**  
+🔹 🏥 **[Surgery Wait Times in Canada](https://github.com/Aartizikre150/waiting-time-for-surgery-in-Canada)**  
 Analyzed healthcare procedure wait times using Python (pandas, matplotlib, seaborn) to identify regional disparities in Canadian healthcare.  
 
-🔹 🧠 **[NLP Sentiment Analysis – Airline Reviews](https://github.com/Aartizikre150/NLP-Sentiment-Analysis-Airline)**  
+🔹 🧠 **[NLP Sentiment Analysis – Airline Reviews](https://github.com/Aartizikre150/NLP-Airline-Sentiment-Analysis)**  
 Built NLP models with Python (NLTK, spaCy, scikit-learn) to classify airline passenger sentiments from Twitter reviews.  
 
-🔹 📊 **[ICT Ignite – ReturnPal Data Analysis](https://github.com/Aartizikre150/ICT-Ignite-ReturnPal)**  
+🔹 📊 **[ICT Ignite – ReturnPal Data Analysis](https://github.com/Aartizikre150/ICT-Ignite-ReturnPal-Data-Analysis)**  
 Analyzed 2017–2027 ecommerce datasets to uncover growth opportunities for ReturnPal’s return logistics operations.  
 
-🔹 🎯 **[Marketing & Customer Behavior Analysis](https://github.com/Aartizikre150/Marketing-Customer-Behavior-Analysis)**  
+🔹 🎯 **[Customer Behavior Analysis](https://github.com/Aartizikre150/Customer-behavior-analysis)**  
 Explored customer purchase and return behavior using Python, Tableau, and statistical analysis to generate insights for marketing strategies.  
 
 ---
