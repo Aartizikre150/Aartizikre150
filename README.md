@@ -54,20 +54,34 @@ Investis Digital | Vadodara, India
 
 ## 📂 Featured Projects  
 
-🔹 🌊 **Water Life Cycle Dashboard (2025)**  
+## 📂 Featured Projects  
+
+🔹 🌊 **[Water Life Cycle Dashboard](https://github.com/Aartizikre150/Water-Life-Cycle)**  
 Built an interactive Power BI dashboard using NASA & NOAA datasets to visualize the entire water cycle — enhancing climate and sustainability insights.  
 
-🔹 🏆 **Rocket Mortgage Analytics Challenge (2024)**  
+🔹 🏆 **[Rocket Mortgage Analytics Challenge](https://github.com/Aartizikre150/Rocket-Mortgage-Analytics-Challenge)**  
 Finalist — designed dashboards and predictive insights to improve customer profiling and lending strategies.  
 
-🔹 😊 **Workplace Happiness Pulse (2024)**  
+🔹 😊 **[Workplace Happiness Pulse](https://github.com/Aartizikre150/Workplace-Happiness-Pulse)**  
 Survey-based EDA with Tableau to uncover employee satisfaction trends and actionable HR insights.  
 
-🔹 📦 **Ecommerce Return Prediction (2024)**  
+🔹 📦 **[Ecommerce Return Prediction](https://github.com/Aartizikre150/Ecommerce-Return-Prediction)**  
 Developed ML models with Python & Tableau dashboards to predict product returns and optimize logistics.  
 
-🔹 🔋 **Worldwide Energy Consumption Analysis (2023)**  
+🔹 🔋 **[Worldwide Energy Consumption Analysis](https://github.com/Aartizikre150/Worldwide-Energy-Consumption)**  
 Analyzed global renewable vs non-renewable energy trends using Tableau & SQL, highlighting post-pandemic shifts.  
+
+🔹 🏥 **[Surgery Wait Times in Canada](https://github.com/Aartizikre150/Surgery-Wait-Times-Canada)**  
+Analyzed healthcare procedure wait times using Python (pandas, matplotlib, seaborn) to identify regional disparities in Canadian healthcare.  
+
+🔹 🧠 **[NLP Sentiment Analysis – Airline Reviews](https://github.com/Aartizikre150/NLP-Sentiment-Analysis-Airline)**  
+Built NLP models with Python (NLTK, spaCy, scikit-learn) to classify airline passenger sentiments from Twitter reviews.  
+
+🔹 📊 **[ICT Ignite – ReturnPal Data Analysis](https://github.com/Aartizikre150/ICT-Ignite-ReturnPal)**  
+Analyzed 2017–2027 ecommerce datasets to uncover growth opportunities for ReturnPal’s return logistics operations.  
+
+🔹 🎯 **[Marketing & Customer Behavior Analysis](https://github.com/Aartizikre150/Marketing-Customer-Behavior-Analysis)**  
+Explored customer purchase and return behavior using Python, Tableau, and statistical analysis to generate insights for marketing strategies.  
 
 ---
 
