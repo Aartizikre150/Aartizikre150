@@ -54,6 +54,9 @@ Investis Digital | Vadodara, India
 
 ## 📂 Featured Projects  
 
+🔹 🎧 **[Spotify Data Insights Dashboard](https://github.com/Aartizikre150/Spotify)**  
+Built an interactive Power BI dashboard and data model analyzing global song trends using Spotify datasets.  
+
 🔹 🌊 **[Water Life Cycle Dashboard](https://github.com/Aartizikre150/Water-Life-Cycle)**  
 Built an interactive Power BI dashboard using NASA & NOAA datasets to visualize the entire water cycle — enhancing climate and sustainability insights.  
 
