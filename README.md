@@ -213,4 +213,5 @@ Investis Digital | Vadodara, India
 
 
 ![Snake animation](https://github.com/Aartizikre150/Aartizikre150/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Aartizikre150/Aartizikre150/blob/output/github-contribution-grid-snake.svg?palette=dracula)
 
