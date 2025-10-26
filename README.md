@@ -2,11 +2,28 @@
 🎯 Data Analyst | Future Data Scientist | Insight Explorer | Dashboard & Analytics Enthusiast  
 
 ---
-🌟 I’m not just analyzing numbers—I’m uncovering the stories they tell.  
-Currently based in Canada, with a background in Computer Engineering and a strong focus on business-driven analytics.  
-I turn raw data into actionable insights using the power of Python, SQL, Power BI, and Tableau.  
+<h2 align="center">🌟 I’m not just analyzing numbers — I’m uncovering the stories they tell.</h2>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aartizikre/)
+<p align="center">
+Currently based in <b>Canada</b>, with a background in <b>Computer Engineering</b> and a strong focus on <b>business-driven analytics</b>.<br>
+I transform raw data into meaningful insights using <b>Python, SQL, Power BI, and Tableau</b>.
+</p>
+
+<p align="center"><em>“I don’t just work with data — I challenge it, decode it, and let it speak.”</em></p>
+
+---
+
+<h3 align="center">📬 Let’s Connect</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aartizikre/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aarti%20Zikre-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:zikreaarti1998@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
+
 ---
 
 ## 🧠 Skills & Tools I Work With  
