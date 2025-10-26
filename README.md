@@ -3,7 +3,7 @@
 
 ---
 🌟 I’m not just analyzing numbers—I’m uncovering the stories they tell.  
-Currently based in 🇨🇦 Canada, with a background in Computer Engineering and a strong focus on business-driven analytics.  
+Currently based in Canada, with a background in Computer Engineering and a strong focus on business-driven analytics.  
 I turn raw data into actionable insights using the power of Python, SQL, Power BI, and Tableau.  
 
 ---
