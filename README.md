@@ -186,6 +186,7 @@ Investis Digital | Vadodara, India
 
 — Aarti Anil Zikre 🌟  
 ---  
+<h2 align="center">💻 GitHub Stats</h2>
 <!-- GitHub Stats + Top Languages (Side by Side, Dracula Theme) -->
 <table align="center">
   <tr>
@@ -205,7 +206,8 @@ Investis Digital | Vadodara, India
     </td>
   </tr>
 </table>
-
+<!-- Dark theme -->
+![Snake animation](https://github.com/Aartizikre150/Aartizikre150/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 
