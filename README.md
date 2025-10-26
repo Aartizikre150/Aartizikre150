@@ -6,6 +6,7 @@
 Currently based in Canada, with a background in Computer Engineering and a strong focus on business-driven analytics.  
 I turn raw data into actionable insights using the power of Python, SQL, Power BI, and Tableau.  
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aartizikre/)
 ---
 
 ## 🧠 Skills & Tools I Work With  
@@ -184,13 +185,27 @@ Investis Digital | Vadodara, India
 ✨ *“I don’t just work with data — I challenge it, decode it, and let it speak.”*  
 
 — Aarti Anil Zikre 🌟  
+---  
+<!-- GitHub Stats + Top Languages (Side by Side, Dracula Theme) -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Aartizikre150&show_icons=true&rank_icon=github&theme=dracula&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=26&border_radius=8&hide_border=true"
+        alt="Aarti's GitHub stats"
+        width="480"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aartizikre150&layout=compact&langs_count=8&card_width=360&theme=dracula&hide_border=true"
+        alt="Top Languages"
+        width="380"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
-<!-- GitHub Stats (Dracula + GitHub logo rank + extras) -->
-![Aarti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aartizikre150&show_icons=true&rank_icon=github&theme=dracula&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=26&border_radius=8)
-
-<!-- Top Languages (Dracula, compact or donut—pick one) -->
-<!-- Compact layout -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aartizikre150&layout=compact&langs_count=8&card_width=360&theme=dracula)
 
