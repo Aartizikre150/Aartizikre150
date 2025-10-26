@@ -52,37 +52,127 @@ Investis Digital | Vadodara, India
 
 ---
 
-## 📂 Featured Projects  
+<h2 align="center">🎯 Featured Projects</h2>
 
-🔹 🎧 **[Spotify Data Insights Dashboard](https://github.com/Aartizikre150/Spotify)**  
-Built an interactive Power BI dashboard and data model analyzing global song trends using Spotify datasets.  
+<table align="center" width="100%">
+  <tr>
+    <!-- Spotify -->
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/Aartizikre150/Spotify">
+        <img src="https://github.com/Aartizikre150/Spotify/blob/main/Images/image.jpg?raw=1"
+             alt="Spotify Data Insights"
+             style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+      </a>
+      <h3>🎧 Spotify Data Insights</h3>
+      <p>Interactive Power BI dashboard & data model exploring global song trends.</p>
+    </td>
 
-🔹 🌊 **[Water Life Cycle Dashboard](https://github.com/Aartizikre150/Water-Life-Cycle)**  
-Built an interactive Power BI dashboard using NASA & NOAA datasets to visualize the entire water cycle — enhancing climate and sustainability insights.  
+  <!-- Water Life Cycle -->
+  <td width="33%" valign="top" align="center">
+    <a href="https://github.com/Aartizikre150/Water-Life-Cycle">
+      <img src="https://github.com/Aartizikre150/Water-Life-Cycle/blob/main/assets/banner.png?raw=1"
+           alt="Water Life Cycle"
+           style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+    </a>
+    <h3>🌊 Water Life Cycle</h3>
+    <p>NASA/NOAA data storytelling — evaporation → runoff & sustainability.</p>
+  </td>
 
-🔹 🏆 **[Rocket Mortgage Analytics Challenge](https://github.com/Aartizikre150/Rocket-morgage)**  
-Finalist — designed dashboards and predictive insights to improve customer profiling and lending strategies.  
+  <!-- Rocket Mortgage -->
+  <td width="33%" valign="top" align="center">
+    <a href="https://github.com/Aartizikre150/Rocket-morgage">
+      <img src="https://github.com/Aartizikre150/Rocket-morgage/blob/main/Images/rocket-mortgage-banner.jpg?raw=1"
+           alt="Rocket Mortgage Challenge"
+           style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+    </a>
+    <h3>🏆 Rocket Mortgage Challenge</h3>
+    <p>Dashboards & predictive insights for customer profiling and lending strategy.</p>
+  </td>
+  </tr>
 
-🔹 😊 **[Workplace Happiness Pulse](https://github.com/Aartizikre150/Workplace-Happiness-Pulse)**  
-Survey-based EDA with Tableau to uncover employee satisfaction trends and actionable HR insights.  
+  <tr>
+    <!-- Workplace Happiness -->
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/Aartizikre150/Workplace-Happiness-Pulse">
+        <img src="https://github.com/Aartizikre150/Workplace-Happiness-Pulse/blob/master/images/_9780fb77-d262-432b-9546-e86f2c6bcfae.jpeg?raw=1"
+             alt="Workplace Happiness Pulse"
+             style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+      </a>
+      <h3>😊 Workplace Happiness Pulse</h3>
+      <p>Survey-based Tableau EDA revealing drivers of employee satisfaction.</p>
+    </td>
 
-🔹 📦 **[Ecommerce Return Prediction](https://github.com/Aartizikre150/Ecommerce_Return_Prediction)**  
-Developed ML models with Python & Tableau dashboards to predict product returns and optimize logistics.  
+  <!-- Ecommerce Returns -->
+  <td width="33%" valign="top" align="center">
+    <a href="https://github.com/Aartizikre150/Ecommerce_Return_Prediction">
+      <img src="https://github.com/Aartizikre150/Ecommerce_Return_Prediction/blob/main/project%20images/logo.jpg?raw=1"
+           alt="Ecommerce Return Prediction"
+           style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+    </a>
+    <h3>📦 Ecommerce Return Prediction</h3>
+    <p>Python + Tableau models to flag high return-risk products and cut losses.</p>
+  </td>
 
-🔹 🔋 **[Worldwide Energy Consumption – Global Comparison](https://github.com/Aartizikre150/Worldwide-Energy-Consumption-A-Global-Comparison)**  
-Analyzed global renewable vs non-renewable energy trends using Tableau & SQL, highlighting post-pandemic shifts.  
+  <!-- Worldwide Energy -->
+  <td width="33%" valign="top" align="center">
+    <a href="https://github.com/Aartizikre150/Worldwide-Energy-Consumption-A-Global-Comparison">
+      <img src="https://github.com/Aartizikre150/Worldwide-Energy-Consumption-A-Global-Comparison/blob/main/images/banner.jpg?raw=1"
+           alt="Worldwide Energy Consumption"
+           style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+    </a>
+    <h3>🔋 Worldwide Energy Consumption</h3>
+    <p>Global trends of renewables vs. fossil fuels via Tableau dashboards.</p>
+  </td>
+  </tr>
 
-🔹 🏥 **[Surgery Wait Times in Canada](https://github.com/Aartizikre150/waiting-time-for-surgery-in-Canada)**  
-Analyzed healthcare procedure wait times using Python (pandas, matplotlib, seaborn) to identify regional disparities in Canadian healthcare.  
+  <tr>
+    <!-- Surgery Wait Times -->
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/Aartizikre150/waiting-time-for-surgery-in-Canada">
+        <img src="https://img.youtube.com/vi/-eHGJ3CdXzU/hqdefault.jpg"
+             alt="Surgery Wait Times in Canada"
+             style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+      </a>
+      <h3>🏥 Surgery Wait Times (Canada)</h3>
+      <p>Python EDA highlighting regional disparities across procedures.</p>
+    </td>
 
-🔹 🧠 **[NLP Sentiment Analysis – Airline Reviews](https://github.com/Aartizikre150/NLP-Airline-Sentiment-Analysis)**  
-Built NLP models with Python (NLTK, spaCy, scikit-learn) to classify airline passenger sentiments from Twitter reviews.  
+  <!-- NLP Airline Sentiment -->
+  <td width="33%" valign="top" align="center">
+    <a href="https://github.com/Aartizikre150/NLP-Airline-Sentiment-Analysis">
+      <img src="https://github.com/Aartizikre150/NLP-Airline-Sentiment-Analysis/blob/master/images/nlp-airline-banner.png?raw=1"
+           alt="NLP Airline Sentiment"
+           style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+    </a>
+    <h3>🧠 NLP — Airline Sentiment</h3>
+    <p>NLTK + spaCy + scikit-learn to classify and explain Twitter sentiments.</p>
+  </td>
 
-🔹 📊 **[ICT Ignite – ReturnPal Data Analysis](https://github.com/Aartizikre150/ICT-Ignite-ReturnPal-Data-Analysis)**  
-Analyzed 2017–2027 ecommerce datasets to uncover growth opportunities for ReturnPal’s return logistics operations.  
+  <!-- ReturnPal -->
+  <td width="33%" valign="top" align="center">
+    <a href="https://github.com/Aartizikre150/ICT-Ignite-ReturnPal-Data-Analysis">
+      <img src="https://github.com/Aartizikre150/ICT-Ignite-ReturnPal-Data-Analysis/blob/main/Images/Banner.jpg?raw=1"
+           alt="ICT Ignite ReturnPal"
+           style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+    </a>
+    <h3>📊 ICT Ignite – ReturnPal</h3>
+    <p>2017–2027 ecommerce trends & logistics insights for growth strategy.</p>
+  </td>
+  </tr>
 
-🔹 🎯 **[Customer Behavior Analysis](https://github.com/Aartizikre150/Customer-behavior-analysis)**  
-Explored customer purchase and return behavior using Python, Tableau, and statistical analysis to generate insights for marketing strategies.  
+  <tr>
+    <!-- Customer Behavior (full-width) -->
+    <td colspan="3" valign="top" align="center">
+      <a href="https://github.com/Aartizikre150/Customer-behavior-analysis">
+        <img src="https://github.com/Aartizikre150/Customer-behavior-analysis/blob/master/images/_017b70a8-1f0f-4ca2-bf86-7645749feddf.jpeg?raw=1"
+             alt="Customer Behavior Analysis"
+             style="width:280px;height:180px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+      </a>
+      <h3>🎯 Customer Behavior Analysis</h3>
+      <p>Python/Tableau analysis of purchase & return behavior with marketing insights.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
