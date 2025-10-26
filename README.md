@@ -206,12 +206,6 @@ Investis Digital | Vadodara, India
     </td>
   </tr>
 </table>
-<!-- Dark theme -->
-![Snake](https://github.com/Aartizikre150/Aartizikre150/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake](https://github.com/Aartizikre150/Aartizikre150/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
-
 ![Snake animation](https://github.com/Aartizikre150/Aartizikre150/blob/output/github-contribution-grid-snake.svg)
 ![Snake animation](https://github.com/Aartizikre150/Aartizikre150/blob/output/github-contribution-grid-snake.svg?palette=dracula)
 
