@@ -180,7 +180,7 @@ Investis Digital | Vadodara, India
 
   <tr>
     <!-- Customer Behavior (full-width) -->
-    <td colspan="3" valign="top" align="center">
+    <td width="33%" valign="top" align="center">
       <a href="https://github.com/Aartizikre150/Customer-behavior-analysis">
         <img src="https://github.com/Aartizikre150/Customer-behavior-analysis/blob/master/images/_017b70a8-1f0f-4ca2-bf86-7645749feddf.jpeg?raw=1"
              alt="Customer Behavior Analysis"
@@ -189,6 +189,15 @@ Investis Digital | Vadodara, India
       <h3>🎯 Customer Behavior Analysis</h3>
       <p>Python/Tableau analysis of purchase & return behavior with marketing insights.</p>
     </td>
+    <td width="33%" valign="top" align="center">
+     <a href="https://github.com/Aartizikre150/Trump-Tariff-Status-Tracker">
+      <img src="https://github.com/Aartizikre150/Trump-Tariff-Status-Tracker/blob/main/Images/Tariff.jpg?raw=1"
+           alt="Trump Tariff Status Tracker"
+           style="width:400px;height:180px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+    </a>
+    <h3>🇺🇸 Trump Tariff Status Tracker</h3>
+    <p>Power BI newsroom dashboard visualizing 2025 U.S. tariffs by country, sector & impact.</p>
+  </td>
   </tr>
 </table>
 
