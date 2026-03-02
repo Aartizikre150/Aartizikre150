@@ -74,16 +74,27 @@ Investis Digital | Vadodara, India
 
 <table align="center" width="100%">
   <tr>
-    <!-- Spotify -->
+    <!-- Loan Automation -->
     <td width="33%" valign="top" align="center">
-      <a href="https://github.com/Aartizikre150/Spotify">
-        <img src="https://github.com/Aartizikre150/Spotify/blob/main/Images/image.jpg?raw=1"
-             alt="Spotify Data Insights"
+      <a href="https://github.com/Aartizikre150/Loan-Application-Review-Automation-System">
+        <img src="https://github.com/Aartizikre150/Loan-Application-Review-Automation-System/blob/main/Images/ChatGPT%20Image%20Mar%202%2C%202026%2C%2009_36_29%20AM.png"
+             alt="Digital Loan Automation System."
              style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
       </a>
-      <h3>🎧 Spotify Data Insights</h3>
-      <p>Interactive Power BI dashboard & data model exploring global song trends.</p>
+      <h3>🏦 Digital Loan Automation System</h3>
+      <p>End-to-end Power Apps + Dataverse + Power Automate solution automating loan intake, approval workflows, status tracking & audit logging.</p>
     </td>
+
+  <!-- Spotify -->
+  <td width="33%" valign="top" align="center">
+    <a href="https://github.com/Aartizikre150/Spotify">
+      <img src="https://github.com/Aartizikre150/Spotify/blob/main/Images/image.jpg?raw=1"
+           alt="Spotify Data Insights"
+           style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+    </a>
+    <h3>🎧 Spotify Data Insights</h3>
+    <p>Interactive Power BI dashboard & data model exploring global song trends.</p>
+  </td>
 
   <!-- Water Life Cycle -->
   <td width="33%" valign="top" align="center">
@@ -95,30 +106,30 @@ Investis Digital | Vadodara, India
     <h3>🌊 Water Life Cycle</h3>
     <p>NASA/NOAA data storytelling — evaporation → runoff & sustainability.</p>
   </td>
-
-  <!-- Rocket Mortgage -->
-  <td width="33%" valign="top" align="center">
-    <a href="https://github.com/Aartizikre150/Rocket-morgage">
-      <img src="https://github.com/Aartizikre150/Rocket-morgage/blob/main/Images/rocket-mortgage-banner.jpg?raw=1"
-           alt="Rocket Mortgage Challenge"
-           style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
-    </a>
-    <h3>🏆 Rocket Mortgage Challenge</h3>
-    <p>Dashboards & predictive insights for customer profiling and lending strategy.</p>
-  </td>
   </tr>
 
   <tr>
-    <!-- Workplace Happiness -->
+    <!-- Rocket Mortgage -->
     <td width="33%" valign="top" align="center">
-      <a href="https://github.com/Aartizikre150/Workplace-Happiness-Pulse">
-        <img src="https://github.com/Aartizikre150/Workplace-Happiness-Pulse/blob/master/images/_9780fb77-d262-432b-9546-e86f2c6bcfae.jpeg?raw=1"
-             alt="Workplace Happiness Pulse"
+      <a href="https://github.com/Aartizikre150/Rocket-morgage">
+        <img src="https://github.com/Aartizikre150/Rocket-morgage/blob/main/Images/rocket-mortgage-banner.jpg?raw=1"
+             alt="Rocket Mortgage Challenge"
              style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
       </a>
-      <h3>😊 Workplace Happiness Pulse</h3>
-      <p>Survey-based Tableau EDA revealing drivers of employee satisfaction.</p>
+      <h3>🏆 Rocket Mortgage Challenge</h3>
+      <p>Dashboards & predictive insights for customer profiling and lending strategy.</p>
     </td>
+
+  <!-- Workplace Happiness -->
+  <td width="33%" valign="top" align="center">
+    <a href="https://github.com/Aartizikre150/Workplace-Happiness-Pulse">
+      <img src="https://github.com/Aartizikre150/Workplace-Happiness-Pulse/blob/master/images/_9780fb77-d262-432b-9546-e86f2c6bcfae.jpeg?raw=1"
+           alt="Workplace Happiness Pulse"
+           style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+    </a>
+    <h3>😊 Workplace Happiness Pulse</h3>
+    <p>Survey-based Tableau EDA revealing drivers of employee satisfaction.</p>
+  </td>
 
   <!-- Ecommerce Returns -->
   <td width="33%" valign="top" align="center">
@@ -130,30 +141,30 @@ Investis Digital | Vadodara, India
     <h3>📦 Ecommerce Return Prediction</h3>
     <p>Python + Tableau models to flag high return-risk products and cut losses.</p>
   </td>
-
-  <!-- Worldwide Energy -->
-  <td width="33%" valign="top" align="center">
-    <a href="https://github.com/Aartizikre150/Worldwide-Energy-Consumption-A-Global-Comparison">
-      <img src="https://github.com/Aartizikre150/Worldwide-Energy-Consumption-A-Global-Comparison/blob/main/images/banner.jpg?raw=1"
-           alt="Worldwide Energy Consumption"
-           style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
-    </a>
-    <h3>🔋 Worldwide Energy Consumption</h3>
-    <p>Global trends of renewables vs. fossil fuels via Tableau dashboards.</p>
-  </td>
   </tr>
 
   <tr>
-    <!-- Surgery Wait Times -->
+    <!-- Worldwide Energy -->
     <td width="33%" valign="top" align="center">
-      <a href="https://github.com/Aartizikre150/waiting-time-for-surgery-in-Canada">
-        <img src="https://img.youtube.com/vi/-eHGJ3CdXzU/hqdefault.jpg"
-             alt="Surgery Wait Times in Canada"
+      <a href="https://github.com/Aartizikre150/Worldwide-Energy-Consumption-A-Global-Comparison">
+        <img src="https://github.com/Aartizikre150/Worldwide-Energy-Consumption-A-Global-Comparison/blob/main/images/banner.jpg?raw=1"
+             alt="Worldwide Energy Consumption"
              style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
       </a>
-      <h3>🏥 Surgery Wait Times (Canada)</h3>
-      <p>Python EDA highlighting regional disparities across procedures.</p>
+      <h3>🔋 Worldwide Energy Consumption</h3>
+      <p>Global trends of renewables vs. fossil fuels via Tableau dashboards.</p>
     </td>
+
+  <!-- Surgery Wait Times -->
+  <td width="33%" valign="top" align="center">
+    <a href="https://github.com/Aartizikre150/waiting-time-for-surgery-in-Canada">
+      <img src="https://img.youtube.com/vi/-eHGJ3CdXzU/hqdefault.jpg"
+           alt="Surgery Wait Times in Canada"
+           style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+    </a>
+    <h3>🏥 Surgery Wait Times (Canada)</h3>
+    <p>Python EDA highlighting regional disparities across procedures.</p>
+  </td>
 
   <!-- NLP Airline Sentiment -->
   <td width="33%" valign="top" align="center">
@@ -165,42 +176,43 @@ Investis Digital | Vadodara, India
     <h3>🧠 NLP — Airline Sentiment</h3>
     <p>NLTK + spaCy + scikit-learn to classify and explain Twitter sentiments.</p>
   </td>
-
-  <!-- ReturnPal -->
-  <td width="33%" valign="top" align="center">
-    <a href="https://github.com/Aartizikre150/ICT-Ignite-ReturnPal-Data-Analysis">
-      <img src="https://github.com/Aartizikre150/ICT-Ignite-ReturnPal-Data-Analysis/blob/main/Images/Banner.jpg?raw=1"
-           alt="ICT Ignite ReturnPal"
-           style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
-    </a>
-    <h3>📊 ICT Ignite – ReturnPal</h3>
-    <p>2017–2027 ecommerce trends & logistics insights for growth strategy.</p>
-  </td>
   </tr>
 
   <tr>
-    <!-- Customer Behavior (full-width) -->
+    <!-- ReturnPal -->
     <td width="33%" valign="top" align="center">
-      <a href="https://github.com/Aartizikre150/Customer-behavior-analysis">
-        <img src="https://github.com/Aartizikre150/Customer-behavior-analysis/blob/master/images/_017b70a8-1f0f-4ca2-bf86-7645749feddf.jpeg?raw=1"
-             alt="Customer Behavior Analysis"
-             style="width:280px;height:180px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+      <a href="https://github.com/Aartizikre150/ICT-Ignite-ReturnPal-Data-Analysis">
+        <img src="https://github.com/Aartizikre150/ICT-Ignite-ReturnPal-Data-Analysis/blob/main/Images/Banner.jpg?raw=1"
+             alt="ICT Ignite ReturnPal"
+             style="width:280px;height:160px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
       </a>
-      <h3>🎯 Customer Behavior Analysis</h3>
-      <p>Python/Tableau analysis of purchase & return behavior with marketing insights.</p>
+      <h3>📊 ICT Ignite – ReturnPal</h3>
+      <p>2017–2027 ecommerce trends & logistics insights for growth strategy.</p>
     </td>
-    <td width="33%" valign="top" align="center">
-     <a href="https://github.com/Aartizikre150/Trump-Tariff-Status-Tracker">
+
+  <!-- Customer Behavior -->
+  <td width="33%" valign="top" align="center">
+    <a href="https://github.com/Aartizikre150/Customer-behavior-analysis">
+      <img src="https://github.com/Aartizikre150/Customer-behavior-analysis/blob/master/images/_017b70a8-1f0f-4ca2-bf86-7645749feddf.jpeg?raw=1"
+           alt="Customer Behavior Analysis"
+           style="width:280px;height:180px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+    </a>
+    <h3>🎯 Customer Behavior Analysis</h3>
+    <p>Python/Tableau analysis of purchase & return behavior with marketing insights.</p>
+  </td>
+
+  <!-- Trump Tariff -->
+  <td width="33%" valign="top" align="center">
+    <a href="https://github.com/Aartizikre150/Trump-Tariff-Status-Tracker">
       <img src="https://github.com/Aartizikre150/Trump-Tariff-Status-Tracker/blob/main/Images/Tariff.jpg?raw=1"
            alt="Trump Tariff Status Tracker"
-           style="width:400px;height:180px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
+           style="width:280px;height:180px;object-fit:cover;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.15);">
     </a>
     <h3>🇺🇸 Trump Tariff Status Tracker</h3>
     <p>Power BI newsroom dashboard visualizing 2025 U.S. tariffs by country, sector & impact.</p>
   </td>
   </tr>
 </table>
-
 ---
 
 ## 📬 Let’s Connect  
